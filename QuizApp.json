@@ -1,0 +1,59 @@
+{
+    "quiz": [
+      {
+        "id": 1,
+        "question": "What is the capital of France?",
+        "options": [
+          "Berlin",
+          "Madrid",
+          "Paris",
+          "Rome"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "id": 2,
+        "question": "Which planet is known as the Red Planet?",
+        "options": [
+          "Earth",
+          "Mars",
+          "Jupiter",
+          "Venus"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "id": 3,
+        "question": "Who wrote 'To Kill a Mockingbird'?",
+        "options": [
+          "Harper Lee",
+          "Mark Twain",
+          "Ernest Hemingway",
+          "F. Scott Fitzgerald"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 4,
+        "question": "What is the largest ocean on Earth?",
+        "options": [
+          "Atlantic Ocean",
+          "Indian Ocean",
+          "Arctic Ocean",
+          "Pacific Ocean"
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "id": 5,
+        "question": "What is the powerhouse of the cell?",
+        "options": [
+          "Nucleus",
+          "Mitochondria",
+          "Ribosome",
+          "Golgi apparatus"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ]
+  }
